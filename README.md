@@ -9,3 +9,5 @@ This study aims to predict the future cost of housing in Ireland by building a l
 ---
 
 ![house cost linear regression](/res/new_house_linear_regression.png)
+
+![house prices 2030](/res/house_prices_2030.png)
