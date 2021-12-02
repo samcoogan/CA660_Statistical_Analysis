@@ -1,11 +1,10 @@
 ## Statistical Analysis - Assignment
 
-This study aims to predict the future cost of housing in Ireland.
 Sam Coogan, Dublin City University, Ireland <br>
 
 ---
 
-Build a linear regression prediction model with data sourced from data.gov.ie <br>
+This study aims to predict the future cost of housing in Ireland by building a linear regression prediction model with data sourced from data.gov.ie <br>
 
 ---
 
